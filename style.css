@@ -1,6 +1,7 @@
 .btn-primary  {
-    background-color:#50ec8c;
+    background-color: blueviolet;
 }
 .btn-primary:hover {
-    background-color:lightblue ;
+    background-color:rgb(104, 159, 231) ;
 }
+
